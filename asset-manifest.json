@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/20220126-ghp-react-test-02/static/css/main.073c9b0a.css",
+    "main.js": "/20220126-ghp-react-test-02/static/js/main.ba2ddf9c.js",
+    "static/js/377.c94e380d.chunk.js": "/20220126-ghp-react-test-02/static/js/377.c94e380d.chunk.js",
+    "service-worker.js": "/20220126-ghp-react-test-02/service-worker.js",
+    "static/media/logo.svg": "/20220126-ghp-react-test-02/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/20220126-ghp-react-test-02/index.html",
+    "main.073c9b0a.css.map": "/20220126-ghp-react-test-02/static/css/main.073c9b0a.css.map",
+    "main.ba2ddf9c.js.map": "/20220126-ghp-react-test-02/static/js/main.ba2ddf9c.js.map",
+    "377.c94e380d.chunk.js.map": "/20220126-ghp-react-test-02/static/js/377.c94e380d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba2ddf9c.js"
+  ]
+}
