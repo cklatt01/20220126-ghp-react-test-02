@@ -2,7 +2,7 @@
   "name": "20220125-ghp-react-test-02",
   "version": "0.1.0",
   "private": true,
-  "homepage": https://cklatt01.github.io/20220126-ghp-react-test-02/,
+  "homepage": "https://cklatt01.github.io/20220126-ghp-react-test-02/",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -32,7 +32,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
